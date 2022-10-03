@@ -20,7 +20,7 @@ function evalReversePolishNotation(rpnArr) {
         stack.push(a * b);
         break;
       case "/":
-        stack.push((a - (a % b)) / b);
+        stack.push(a / b);
         break;
     }
   }
