@@ -1,0 +1,26 @@
+{
+  "name": "algorithms",
+  "description": "算法题目，资料，笔记",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^4.8.4"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qubitsky/algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qubitsky/algorithms/issues"
+  },
+  "homepage": "https://github.com/qubitsky/algorithms#readme"
+}
